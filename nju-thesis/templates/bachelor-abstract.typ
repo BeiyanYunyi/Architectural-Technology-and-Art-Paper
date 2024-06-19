@@ -77,7 +77,7 @@
 
     #[
       #set text(size: 字号.五号, font: fonts.黑体, weight: "bold")
-      摘要 
+      摘要：
       #set text(size: 字号.五号, font: fonts.楷体, weight: "regular")
       #body
     ]
